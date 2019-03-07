@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Country</string>
+    <string name="country">United States of America</string>
+    <string name="food">American Pancakes</string>
+</resources>
